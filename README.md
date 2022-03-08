@@ -1,6 +1,6 @@
 # FICT
 
-De folder scripts bevat:
+De folder scripts bevat: \n
   Script die gebruik worden bij het verkrijgen of verwerken van forensische data.
 De folder templates bevat:
   Deze folder bevat templates die gebruikt worden bij het verwerken van forensische data.
